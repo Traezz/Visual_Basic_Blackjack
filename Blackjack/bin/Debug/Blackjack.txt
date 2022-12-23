@@ -1,0 +1,2 @@
+Blackjack Wins: 1
+Blackjack Losses: 2
